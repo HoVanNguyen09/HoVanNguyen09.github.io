@@ -9,7 +9,7 @@ tags: [Machine Learning]
 - Understanding machine leaning and the problem It can solve
 - Organizing a successful machine leaning project
 - Training and select machine leaning models
-- Performing model validation
+- Performing model validation 
 
 **No Code**
 
